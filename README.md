@@ -1,4 +1,4 @@
-"# SysReo_Project" 
+# SysReo_Project
 
 This repository presents the new modeling approach "SysReo" of an extract of the Communication-Based Train Control (CBTC) system case study.
 SysReo relies on SysML, OCL, and Reo to capture the different aspects of CPS, including requirements, architecture, and interaction protocols.
